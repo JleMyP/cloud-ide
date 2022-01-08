@@ -1,0 +1,6 @@
+Subversion
+com.intellij.completion.ml.ranking
+com.intellij.searcheverywhere.ml
+com.jetbrains.codeWithMe
+com.jetbrains.space
+hg4idea
